@@ -6,6 +6,6 @@ public class SkillDemoTest {
     @Test
     public void testConcat()
     {
-        assertEquals("Hello", SkillDemo.concat("Hi", "Hey"));
+        assertEquals("Hello", SkillDemo.concat("He", "llo"));
     }
 }
